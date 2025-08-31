@@ -1,6 +1,6 @@
 # Chatbot
 
-A modern, customizable chatbot application built with React. This project demonstrates real-time messaging and a responsive UI.
+Hi I am Arya. Here I made a modern, customizable chatbot application built with React. This project demonstrates real-time messaging and a responsive UI.
 
 
 ## Features
@@ -55,22 +55,6 @@ chatbot/
 - Update APIKey on `.env` Replace "YourAPIKey"
 
 
-## Contributing
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Commit your changes
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a Pull Request
-
-
-## Contact
-For any inquiries, reach out at [kaushalsahu.me@gmailcom](mailto:kaushalsahu.me@gmailcom).<br>
-GitHub: [@kaushalsahu07](https://github.com/kaushalsahu07).<br>
-Linkedin: [@kaushalsahu07](www.linkedin.com/in/kaushalsahu07).<br>
-Instagram: [@cd.kaushal](https://www.instagram.com/cd.kaushal?igsh=cTVram1ia3Vvamxz).<br>
-Portfolio: [Website Link ](https://kaushalsahu07.github.io/portfolio/).<br>
-X (Tweeter): [@kaushalsahu_07](https://x.com/kaushalsahu_07?t=7nk-jApWrJkgW6YwklJZWQ&s=09).<br>
 
 
 
