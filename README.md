@@ -17,22 +17,55 @@ Hi I am Arya. Here I made a modern, customizable chatbot application built with 
 
 ## Getting Started
 
-### Installation
+### Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/chatbot.git
 cd chatbot
+```
+
+### Install Node.js and npm
+
+Visit the official Node.js website ( https://nodejs.org/en/download ) and download the latest LTS version compatible with your system.
+
+Run the installer and complete the setup.
+
+To verify installation, open a new terminal and run:
+
+```bash
+node -v
+npm -v
+```
+
+### Install Project Dependencies
+
+With Node.js and npm ready, install the required packages:
+
+```bash
 npm install
 ```
 
-### Running the App
+### Configure the API Key in .env
+
+Sign up or log in to Cohere’s dashboard ( https://dashboard.cohere.com/welcome/login ) and Generate or locate your API key.
+
+Open the .env file and add your API key like this:
+
+```bash
+REACT_APP_API_KEY=YourAPIKeyHere
+```
+
+### Run the Dev Server
 
 ```bash
 npm run dev
 ```
 
-The app will be available at [http://localhost:5173](http://localhost:5173).
+### Open It in Your Browser
 
+```bash
+http://localhost:5173
+```
 
 ## Project Structure
 
