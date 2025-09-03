@@ -28,36 +28,20 @@ npm -v
 git clone https://github.com/your-username/chatbot.git
 cd chatbot
 ```
-
-
-
-### Install Project Dependencies
-
-With Node.js and npm ready, install the required packages:
-
-```bash
+4. Install npm
+```cmd
 npm install
 ```
-
-### Configure the API Key in .env
-
-Sign up or log in to Cohere’s dashboard ( https://dashboard.cohere.com/welcome/login ) and Generate or locate your API key.
-
-Open the .env file and add your API key like this:
-
-```bash
+5. Sign up or log in to [Cohere’s dashboard](https://dashboard.cohere.com/welcome/login) and Generate or locate your API key. Then open the .env file and add your API key like this:
+```cmd
 REACT_APP_API_KEY=YourAPIKeyHere
 ```
-
-### Run the Dev Server
-
-```bash
+6. Run the Dev Server in cmd
+```cmd
 npm run dev
 ```
-
-### Open It in Your Browser
-
-```bash
+7. Open It in Your Browser
+```cmd
 http://localhost:5173
 ```
 
