@@ -17,26 +17,19 @@ Hi I am Arya. Here I made a modern, customizable chatbot application built with 
 
 ### Getting Started
 1. Download Latest version of [Git for Windows](https://git-scm.com/downloads/win) and [Node.js](https://nodejs.org/en/download)
-   
-### Clone the Repository
-
-```bash
+2. To verify installation, open cmd and run:
+```cmd
+git -v
+node -v
+npm -v
+```
+3. Clone the Repository
+```cmd
 git clone https://github.com/your-username/chatbot.git
 cd chatbot
 ```
 
-### Install Node.js and npm
 
-Visit the official  website (  ) and download the latest LTS version compatible with your system.
-
-Run the installer and complete the setup.
-
-To verify installation, open a new terminal and run:
-
-```bash
-node -v
-npm -v
-```
 
 ### Install Project Dependencies
 
