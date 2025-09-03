@@ -15,8 +15,9 @@ Hi I am Arya. Here I made a modern, customizable chatbot application built with 
 [ChatBot](https://personal-bot.netlify.app/)
 
 
-## Getting Started
-
+### Getting Started
+1. Download Latest version of [Git for Windows](https://git-scm.com/downloads/win) and [Node.js](https://nodejs.org/en/download)
+   
 ### Clone the Repository
 
 ```bash
@@ -26,7 +27,7 @@ cd chatbot
 
 ### Install Node.js and npm
 
-Visit the official Node.js website ( https://nodejs.org/en/download ) and download the latest LTS version compatible with your system.
+Visit the official  website (  ) and download the latest LTS version compatible with your system.
 
 Run the installer and complete the setup.
 
